@@ -1,10 +1,16 @@
 The mechanism of this object is explained in “Additive synthesis with band-limited oscillator sections”, Peter Pabon & So Oishi, ICMC 2016.
+http://www.icmc2016.com/proceedings.pdf#page=31
 
 
 ============================
 
 blosc9sections~.mxo
 (Band-limited oscillator with 9 sections)
+
+This object allows users to draw arbitrary spectrum by moving 9 breakpoints on the table. Not only fundamental frequency, but also dB level of each breakpoint and the amplitude ratio of odd/even harmonics can be smoothly modulated.
+
+See demo video at:
+http://sooishi.com/engineering/
 
 ============================
 
@@ -86,3 +92,5 @@ This program is free software: you can redistribute it and/or modify it under th
 ============================
 Author
 So Oishi<oishiso@gmail.com>
+sooishi.com
+sooishi.com
